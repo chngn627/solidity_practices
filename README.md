@@ -1,2 +1,1 @@
-# ether_wallet
-An example of a basic wallet.
+# solidity practices
