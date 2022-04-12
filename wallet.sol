@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// an ether wallet example
 pragma solidity ^0.8.10;
 
 contract EtherWallet {
